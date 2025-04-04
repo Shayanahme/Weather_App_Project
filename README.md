@@ -11,8 +11,8 @@ This React Native Expo weather app provides real-time weather updates using the 
 # Screens
 
 <p align="center" >
-  <img src="https://github.com/user-attachments/assets/5244a5bc-bea0-400b-8979-f6285a865323" width="200">
-  <img src="https://github.com/user-attachments/assets/576e4c0c-ea17-461a-837d-3de73df1a41f" width="200">
+  <img src="https://github.com/user-attachments/assets/5244a5bc-bea0-400b-8979-f6285a865323" width="400">
+  <img src="https://github.com/user-attachments/assets/576e4c0c-ea17-461a-837d-3de73df1a41f" width="400">
 </p>
 
 
