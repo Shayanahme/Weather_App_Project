@@ -18,5 +18,5 @@ This React Native Expo weather app provides real-time weather updates using the 
 
 # Demo
 
-You Can Watch Demo through this
+You Can Watch Demo through this link
 https://drive.google.com/file/d/1WZYVZGckurJBwVeRahRrdpdcCrr62Zg8/view?usp=sharing
