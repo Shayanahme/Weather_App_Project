@@ -2,11 +2,11 @@
 # Weather_App_Project
 
 This React Native Expo weather app provides real-time weather updates using the OpenWeather API. Users can set default locations and search for any city to get detailed weather insights, including:
-✅ Temperature 🌡️
-✅ Wind Speed 🌬️
-✅ Humidity 💧
-✅ Pressure 📈
-✅ Visibility 👀
+<p>✅ Temperature 🌡️</p>
+<p>✅ Wind Speed 🌬️</p>
+<p>✅ Humidity 💧</p>
+<p>✅ Pressure 📈</p>
+<p>✅ Visibility 👀</p>
 
 # Screens
 
